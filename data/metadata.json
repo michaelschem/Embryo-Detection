@@ -1,0 +1,242 @@
+[
+  {
+    "name": "centred_smooth",
+    "semi_axes": [
+      0.55,
+      0.45,
+      0.7
+    ],
+    "offcenter_shift": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "irregularity": 0.0,
+    "hatching": false,
+    "zona_shell": true,
+    "seed": 10,
+    "shape": [
+      7,
+      64,
+      64
+    ],
+    "case_id": 0,
+    "file": "case_000_centred_smooth.npy"
+  },
+  {
+    "name": "mild_offcentre",
+    "semi_axes": [
+      0.55,
+      0.45,
+      0.7
+    ],
+    "offcenter_shift": [
+      0.12,
+      -0.08,
+      0.04
+    ],
+    "irregularity": 0.05,
+    "hatching": false,
+    "zona_shell": true,
+    "seed": 11,
+    "shape": [
+      7,
+      64,
+      64
+    ],
+    "case_id": 1,
+    "file": "case_001_mild_offcentre.npy"
+  },
+  {
+    "name": "strong_offcentre",
+    "semi_axes": [
+      0.55,
+      0.45,
+      0.7
+    ],
+    "offcenter_shift": [
+      0.25,
+      0.18,
+      -0.08
+    ],
+    "irregularity": 0.1,
+    "hatching": false,
+    "zona_shell": true,
+    "seed": 12,
+    "shape": [
+      7,
+      64,
+      64
+    ],
+    "case_id": 2,
+    "file": "case_002_strong_offcentre.npy"
+  },
+  {
+    "name": "noisy_centred",
+    "semi_axes": [
+      0.55,
+      0.45,
+      0.7
+    ],
+    "offcenter_shift": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "irregularity": 0.18,
+    "hatching": false,
+    "zona_shell": true,
+    "seed": 13,
+    "shape": [
+      7,
+      64,
+      64
+    ],
+    "case_id": 3,
+    "file": "case_003_noisy_centred.npy"
+  },
+  {
+    "name": "noisy_offcentre",
+    "semi_axes": [
+      0.55,
+      0.45,
+      0.7
+    ],
+    "offcenter_shift": [
+      0.15,
+      -0.12,
+      0.06
+    ],
+    "irregularity": 0.15,
+    "hatching": false,
+    "zona_shell": true,
+    "seed": 14,
+    "shape": [
+      7,
+      64,
+      64
+    ],
+    "case_id": 4,
+    "file": "case_004_noisy_offcentre.npy"
+  },
+  {
+    "name": "hatching_centred",
+    "semi_axes": [
+      0.55,
+      0.45,
+      0.7
+    ],
+    "offcenter_shift": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "irregularity": 0.0,
+    "hatching": true,
+    "zona_shell": true,
+    "seed": 20,
+    "shape": [
+      7,
+      64,
+      64
+    ],
+    "case_id": 5,
+    "file": "case_005_hatching_centred.npy"
+  },
+  {
+    "name": "hatching_mild_off",
+    "semi_axes": [
+      0.55,
+      0.45,
+      0.7
+    ],
+    "offcenter_shift": [
+      0.1,
+      -0.07,
+      0.03
+    ],
+    "irregularity": 0.06,
+    "hatching": true,
+    "zona_shell": true,
+    "seed": 21,
+    "shape": [
+      7,
+      64,
+      64
+    ],
+    "case_id": 6,
+    "file": "case_006_hatching_mild_off.npy"
+  },
+  {
+    "name": "hatching_strong_off",
+    "semi_axes": [
+      0.55,
+      0.45,
+      0.7
+    ],
+    "offcenter_shift": [
+      0.22,
+      0.15,
+      -0.07
+    ],
+    "irregularity": 0.12,
+    "hatching": true,
+    "zona_shell": true,
+    "seed": 22,
+    "shape": [
+      7,
+      64,
+      64
+    ],
+    "case_id": 7,
+    "file": "case_007_hatching_strong_off.npy"
+  },
+  {
+    "name": "hatching_noisy",
+    "semi_axes": [
+      0.55,
+      0.45,
+      0.7
+    ],
+    "offcenter_shift": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "irregularity": 0.2,
+    "hatching": true,
+    "zona_shell": true,
+    "seed": 23,
+    "shape": [
+      7,
+      64,
+      64
+    ],
+    "case_id": 8,
+    "file": "case_008_hatching_noisy.npy"
+  },
+  {
+    "name": "hatching_noisy_offcentre",
+    "semi_axes": [
+      0.55,
+      0.45,
+      0.7
+    ],
+    "offcenter_shift": [
+      0.18,
+      -0.14,
+      0.05
+    ],
+    "irregularity": 0.16,
+    "hatching": true,
+    "zona_shell": true,
+    "seed": 24,
+    "shape": [
+      7,
+      64,
+      64
+    ],
+    "case_id": 9,
+    "file": "case_009_hatching_noisy_offcentre.npy"
+  }
+]
